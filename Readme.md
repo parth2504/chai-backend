@@ -2,4 +2,4 @@
 
 This is video series on chai and backend with javascript
 
--[](Model link)()
+- [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
